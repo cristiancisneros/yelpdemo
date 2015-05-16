@@ -16,6 +16,6 @@ gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
 gem 'fog'
-gem 'carrierwave'
+gem 'carrierwave', '0.10.0' 
 gem "figaro"
-
+gem "mini_magick"
