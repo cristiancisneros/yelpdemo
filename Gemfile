@@ -19,3 +19,4 @@ gem 'fog'
 gem 'carrierwave', '0.10.0' 
 gem "figaro"
 gem "mini_magick"
+gem 'devise'
